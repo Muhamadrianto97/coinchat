@@ -31,7 +31,7 @@ function curl($url,$body){
 	return json_decode($x,true);
 }
 echo "#################\n#  @muhtoevill  #\n#   SGB-Team    #\n#################\n";
-echo "Masukan User id lo :";
+echo "Masukin Link Reff lo :";
 $user_id = trim(fgets(STDIN));
 echo "Berapa Kali :";
 $loop = trim(fgets(STDIN));
@@ -39,11 +39,11 @@ for ($i=1; $i <= $loop; $i++){
 	$nomorhp = nomor(11);
 	$submit = getcoin($nomorhp,$user_id);
 	$output = json_encode($submit);
-	$bitcoin = getStr($output,'"coin":"btc","amount":"','"');
-	$eth = getStr($output,'"coin":"eth","amount":"','"');
-	$user_id = getStr($output,'"user_id":"','"');
+	//$bitcoin = getStr($output,'"coin":"btc","amount":"','"');
+	//$eth = getStr($output,'"coin":"eth","amount":"','"');
+	//$user_id = getStr($output,'"user_id":"','"');
 	if(strpos($output,"bonus_id")==true){
-			$text = "Berhasil Nomor Ini Hp:$nomorhp Telah Menjadi Reff lo Credit By:Muhtoevill";
+			$text = "Berhasil Nomor HP Ini +$nomorhp Udah Jadi Reff lo Credit By:Muhtoevill";
 			
 		    $text1 = "\033[32m".$text."\033[0m";
 	   }else{
