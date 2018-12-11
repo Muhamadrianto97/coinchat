@@ -2,12 +2,20 @@
 # CARA DAPETIN LINK REFF
 
 1.buka aplikasi coinchat (login dulu)
+
 2.ke explore
+
 3.ke award center
+
 4.klik claim your reward by inviting friends
+
 5.get my invitation link
+
 contoh link reff :https://www.coinchat.im/candy/u7ERrSiuE5-SJch6NoeThAnzgJcFBYcJ0
+
 yang di ambil :u7ERrSiuE5-SJch6NoeThAnzgJcFBYcJ0
+
+
 ===============================================================================
 
 # TERMUX
