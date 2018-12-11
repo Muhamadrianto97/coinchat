@@ -1,5 +1,5 @@
 ===============================================================================
-# CARA DAPETIN Link Reff
+# CARA DAPETIN LINK REFF
 
 link reff dari mana ambil belakang link reff lo 
 contoh :https://www.coinchat.im/candy/u7ERrSiuE5-SJch6NoeThAnzgJcFBYcJ0
