@@ -1,20 +1,10 @@
 ===============================================================================
-# CARA DAPETIN USER_ID
+# CARA DAPETIN Link Reff
 
-1.buka aplikasi packet capture atau instal ssl capture.
+link reff dari mana ambil belakang link reff lo 
+contoh :https://www.coinchat.im/candy/u7ERrSiuE5-SJch6NoeThAnzgJcFBYcJ0
+yang di ambil :u7ERrSiuE5-SJch6NoeThAnzgJcFBYcJ0
 
-2.start app capture
-
-3.buka coinchat
-
-4.terus masuk ke Contact
-
-5.pilih orang di kontak terus Start chat abis itu chat Bebas
-
-6.buka lagi packet capture nya
-
-7.terus cari user_id lo 
-(note: User_id di situ ada 2 Jangan salah Ambil di situ ada 2 ambil yang from_user_id kalo salah ambil ntar reff nya masuk ke orang yang lo chat HAHA :v)
 
 ===============================================================================
 
@@ -30,7 +20,7 @@
 
 5.php coinchat.php
 
-6.Masukin user_id lo
+6.Masukin Link reff lo
 
 7.masukin berapa reff yang lo mau
 
@@ -52,7 +42,7 @@
 
 5.php coinchat.php
 
-6.Masukin user_id lo
+6.Masukin Link reff lo
 
 7.masukin berapa reff yang lo mau
 
