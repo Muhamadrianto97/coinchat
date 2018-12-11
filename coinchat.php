@@ -47,7 +47,7 @@ for ($i=1; $i <= $loop; $i++){
 			
 		    $text1 = "\033[32m".$text."\033[0m";
 	   }else{
-		    $text ="Gagal atau Link Refferal Salah";
+		    $text ="Gagal Link Refferal Salah atau Nomor Hp Sudah Terpakai";
 		    $text1 = "\033[31m".$text."\033[0m";
         }
 	echo $text1."\n";
